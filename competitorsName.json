@@ -1,13 +1,5 @@
 [
 	{
-		"competitorName":{
-			"ACraftyConcept":"ACraftyConcept",
-			"ACrochetedSimplicity":"ACrochetedSimplicity",
-			"AlaSascha":"AlaSascha",
-			"ALilLoopy":"ALilLoopy",
-			"ATERGcrochet":"ATERGcrochet",
-			"BabyCrochetDesignsUK":"BabyCrochetDesignsUK",
-			"beadedwire":"beadedwire"
-		}
+		"competitorName":["ACraftyConcept", "ACrochetedSimplicity"]
 	}
 ]

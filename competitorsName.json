@@ -1,23 +1,13 @@
 [
 	{
 		"competitorName":{
-			"ACraftyConcept",
-			"ACrochetedSimplicity",
-			"AlaSascha",
-			"ALilLoopy",
-			"ATERGcrochet",
-			"BabyCrochetDesignsUK",
-			"beadedwire",
-			"BernioliesDesigns",
-			"Crazy4CrochetMomma",
-			"CrochetBabyBoutique",
-			"crochetbycolleenUS",
-			"daisyfarmcrafts",
-			"GreenFoxFarmsDesigns",
-			"HandHeartandSole",
-			"HanJanCrochet",
-			"HeartHookHome",
-			"HookedME"
+			"ACraftyConcept":"ACraftyConcept",
+			"ACrochetedSimplicity":"ACrochetedSimplicity",
+			"AlaSascha":"AlaSascha",
+			"ALilLoopy":"ALilLoopy",
+			"ATERGcrochet":"ATERGcrochet",
+			"BabyCrochetDesignsUK":"BabyCrochetDesignsUK",
+			"beadedwire":"beadedwire"
 		}
 	}
 ]

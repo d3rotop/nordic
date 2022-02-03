@@ -1,0 +1,141 @@
+[
+    {
+        "sales": 2457
+    },
+    {
+        "sales": 2557,
+        "date": "13/10/21 23:44:46",
+        "today_sales": 100,
+        "frequency": {
+            "https://www.etsy.com/listing/900153665/pdf-crochet-pattern-houndstooth-vest": 54,
+            "https://www.etsy.com/listing/858321831/babylon-bucket-hat-pdf-crochet-pattern": 22,
+            "https://www.etsy.com/listing/852277134/pdf-crochet-pattern-tiana-tank-top": 12,
+            "https://www.etsy.com/listing/827435966/jasmine-top-pdf-crochet-pattern": 8,
+            "https://www.etsy.com/listing/852968241/crochet-rasta-bucket-hat-made-to-order": 4
+        }
+    },
+    {
+        "sales": 2565,
+        "date": "14/10/21 23:44:51",
+        "today_sales": 8,
+        "frequency": {
+            "https://www.etsy.com/listing/900153665/pdf-crochet-pattern-houndstooth-vest": 5,
+            "https://www.etsy.com/listing/827435966/jasmine-top-pdf-crochet-pattern": 2,
+            "https://www.etsy.com/listing/858321831/babylon-bucket-hat-pdf-crochet-pattern": 1
+        }
+    },
+    {
+        "sales": 2573,
+        "date": "15/10/21 23:44:42",
+        "today_sales": 8,
+        "frequency": {
+            "https://www.etsy.com/listing/900153665/pdf-crochet-pattern-houndstooth-vest": 6,
+            "https://www.etsy.com/listing/858321831/babylon-bucket-hat-pdf-crochet-pattern": 1,
+            "https://www.etsy.com/listing/852277134/pdf-crochet-pattern-tiana-tank-top": 1
+        }
+    },
+    {
+        "sales": 2576,
+        "date": "16/10/21 23:44:45",
+        "today_sales": 3,
+        "frequency": {
+            "https://www.etsy.com/listing/900153665/pdf-crochet-pattern-houndstooth-vest": 1,
+            "https://www.etsy.com/listing/858321831/babylon-bucket-hat-pdf-crochet-pattern": 1,
+            "https://www.etsy.com/listing/1028149961/crochet-patternchloe-cardigan": 1
+        }
+    },
+    {
+        "sales": 2576,
+        "date": "17/10/21 23:44:43",
+        "today_sales": 0,
+        "frequency": {}
+    },
+    {
+        "sales": 2580,
+        "date": "18/10/21 23:45:01",
+        "today_sales": 4,
+        "frequency": {
+            "https://www.etsy.com/listing/900153665/pdf-crochet-pattern-houndstooth-vest": 2,
+            "https://www.etsy.com/listing/827435966/jasmine-top-pdf-crochet-pattern": 1,
+            "https://www.etsy.com/listing/858321831/babylon-bucket-hat-pdf-crochet-pattern": 1
+        }
+    },
+    {
+        "sales": 2584,
+        "date": "19/10/21 23:44:24",
+        "today_sales": 4,
+        "frequency": {
+            "https://www.etsy.com/listing/900153665/pdf-crochet-pattern-houndstooth-vest": 2,
+            "https://www.etsy.com/listing/827435966/jasmine-top-pdf-crochet-pattern": 1,
+            "https://www.etsy.com/listing/858321831/babylon-bucket-hat-pdf-crochet-pattern": 1
+        }
+    },
+    {
+        "sales": 2592,
+        "date": "20/10/21 23:44:05",
+        "today_sales": 8,
+        "frequency": {
+            "https://www.etsy.com/listing/900153665/pdf-crochet-pattern-houndstooth-vest": 7,
+            "https://www.etsy.com/listing/852277134/pdf-crochet-pattern-tiana-tank-top": 1
+        }
+    },
+    {
+        "sales": 2599,
+        "date": "21/10/21 23:44:04",
+        "today_sales": 7,
+        "frequency": {
+            "https://www.etsy.com/listing/900153665/pdf-crochet-pattern-houndstooth-vest": 6,
+            "https://www.etsy.com/listing/827435966/jasmine-top-pdf-crochet-pattern": 1
+        }
+    },
+    {
+        "sales": 2601,
+        "date": "22/10/21 22:14:05",
+        "today_sales": 2,
+        "frequency": {
+            "https://www.etsy.com/listing/900153665/pdf-crochet-pattern-houndstooth-vest": 1,
+            "https://www.etsy.com/listing/852968241/crochet-rasta-bucket-hat-made-to-order": 1
+        }
+    },
+    {
+        "sales": 3142,
+        "date": "31/01/22 12:05:20",
+        "today_sales": 541,
+        "frequency": {
+            "https://www.etsy.com/listing/900153665/pdf-crochet-pattern-houndstooth-vest": 337,
+            "https://www.etsy.com/listing/827435966/jasmine-top-pdf-crochet-pattern": 113,
+            "https://www.etsy.com/listing/852277134/pdf-crochet-pattern-tiana-tank-top": 46,
+            "https://www.etsy.com/listing/858321831/babylon-bucket-hat-pdf-crochet-pattern": 45
+        }
+    },
+    {
+        "sales": 3148,
+        "date": "01/02/22 13:23:56",
+        "today_sales": 6,
+        "frequency": {
+            "https://www.etsy.com/listing/900153665/pdf-crochet-pattern-houndstooth-vest": 4,
+            "https://www.etsy.com/listing/827435966/jasmine-top-pdf-crochet-pattern": 1,
+            "https://www.etsy.com/listing/852277134/pdf-crochet-pattern-tiana-tank-top": 1
+        }
+    },
+    {
+        "sales": 3155,
+        "date": "02/02/22 11:45:42",
+        "today_sales": 7,
+        "frequency": {
+            "https://www.etsy.com/listing/900153665/pdf-crochet-pattern-houndstooth-vest": 5,
+            "https://www.etsy.com/listing/858321831/babylon-bucket-hat-pdf-crochet-pattern": 1,
+            "https://www.etsy.com/listing/827435966/jasmine-top-pdf-crochet-pattern": 1
+        }
+    },
+    {
+        "sales": 3163,
+        "date": "03/02/22 11:37:35",
+        "today_sales": 8,
+        "frequency": {
+            "https://www.etsy.com/listing/900153665/pdf-crochet-pattern-houndstooth-vest": 5,
+            "https://www.etsy.com/listing/858321831/babylon-bucket-hat-pdf-crochet-pattern": 2,
+            "https://www.etsy.com/listing/852277134/pdf-crochet-pattern-tiana-tank-top": 1
+        }
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "sales": 22984
+    },
+    {
+        "sales": 23084,
+        "date": "30/01/22 11:51:15",
+        "today_sales": 100,
+        "frequency": {
+            "https://www.etsy.com/listing/559530051/beginners-crochet-cuffed-baby-booties": 49,
+            "https://www.etsy.com/listing/736249322/crochet-audrey-cardigan-written-pattern": 9,
+            "https://www.etsy.com/listing/715428604/crochet-lily-dress-written-pattern": 8,
+            "https://www.etsy.com/listing/272737810/crochet-puff-stitch-flower-granny-square": 5,
+            "https://www.etsy.com/listing/620169868/crochet-eloise-bonnet-written-pattern": 5,
+            "https://www.etsy.com/listing/617037933/crochet-emma-bonnet-written-pattern-cute": 4,
+            "https://www.etsy.com/listing/624709631/crochet-pretty-lace-baby-socks-written": 4,
+            "https://www.etsy.com/listing/576998175/mini-crochet-backpack-bag-rucksack": 4,
+            "https://www.etsy.com/listing/584053089/crochet-pretty-lace-baby-childrens": 4,
+            "https://www.etsy.com/listing/662803901/crochet-penelope-dress-written-pattern": 4,
+            "https://www.etsy.com/listing/611146231/crochet-robin-dungarees-romper-written": 4
+        }
+    },
+    {
+        "sales": 23100,
+        "date": "31/01/22 11:29:37",
+        "today_sales": 16,
+        "frequency": {
+            "https://www.etsy.com/listing/559530051/beginners-crochet-cuffed-baby-booties": 2,
+            "https://www.etsy.com/listing/715428604/crochet-lily-dress-written-pattern": 2,
+            "https://www.etsy.com/listing/641268180/crochet-olive-sweater-written-pattern": 2,
+            "https://www.etsy.com/listing/564749231/crochet-dudley-and-daphne-dog-written": 1,
+            "https://www.etsy.com/listing/684681469/crochet-esme-cardigan-written-pattern": 1,
+            "https://www.etsy.com/listing/736249322/crochet-audrey-cardigan-written-pattern": 1,
+            "https://www.etsy.com/listing/710788483/crochet-rowen-dungarees-written-pattern": 1,
+            "https://www.etsy.com/listing/662803901/crochet-penelope-dress-written-pattern": 1,
+            "https://www.etsy.com/listing/572928481/crochet-puff-stitch-flower-baby-bonnet": 1,
+            "https://www.etsy.com/listing/598096828/crochet-daisy-dress-written-pattern-baby": 1,
+            "https://www.etsy.com/listing/571599227/crochet-heart-baby-pinafore-dress": 1,
+            "https://www.etsy.com/listing/547446084/crochet-baby-girls-romper-written": 1,
+            "https://www.etsy.com/listing/649864773/crochet-padstow-blanket-written-pattern": 1
+        }
+    },
+    {
+        "sales": 23110,
+        "date": "01/02/22 13:35:39",
+        "today_sales": 10,
+        "frequency": {
+            "https://www.etsy.com/listing/559530051/beginners-crochet-cuffed-baby-booties": 3,
+            "https://www.etsy.com/listing/550784137/crochet-shell-stitch-purse-written": 1,
+            "https://www.etsy.com/listing/286854143/crochet-baby-mary-jane-shoes-booties": 1,
+            "https://www.etsy.com/listing/736249322/crochet-audrey-cardigan-written-pattern": 1,
+            "https://www.etsy.com/listing/710788483/crochet-rowen-dungarees-written-pattern": 1,
+            "https://www.etsy.com/listing/675494695/crochet-orla-cardigan-written-pattern": 1,
+            "https://www.etsy.com/listing/586605803/crochet-little-girls-classic-shell": 1,
+            "https://www.etsy.com/listing/680171181/little-crochet-mice-written-pattern-easy": 1
+        }
+    },
+    {
+        "sales": 23121,
+        "date": "02/02/22 11:58:25",
+        "today_sales": 11,
+        "frequency": {
+            "https://www.etsy.com/listing/684681469/crochet-esme-cardigan-written-pattern": 2,
+            "https://www.etsy.com/listing/559530051/beginners-crochet-cuffed-baby-booties": 2,
+            "https://www.etsy.com/listing/536988320/crochet-lace-baby-romper-written-pattern": 1,
+            "https://www.etsy.com/listing/643123189/crochet-margo-ballet-cardigan-written": 1,
+            "https://www.etsy.com/listing/586605803/crochet-little-girls-classic-shell": 1,
+            "https://www.etsy.com/listing/272737810/crochet-puff-stitch-flower-granny-square": 1,
+            "https://www.etsy.com/listing/576269363/crochet-amigurumi-doll-toy-written": 1,
+            "https://www.etsy.com/listing/710788483/crochet-rowen-dungarees-written-pattern": 1,
+            "https://www.etsy.com/listing/620169868/crochet-eloise-bonnet-written-pattern": 1
+        }
+    },
+    {
+        "sales": 23129,
+        "date": "03/02/22 11:50:12",
+        "today_sales": 8,
+        "frequency": {
+            "https://www.etsy.com/listing/559530051/beginners-crochet-cuffed-baby-booties": 3,
+            "https://www.etsy.com/listing/715428604/crochet-lily-dress-written-pattern": 2,
+            "https://www.etsy.com/listing/710788483/crochet-rowen-dungarees-written-pattern": 2,
+            "https://www.etsy.com/listing/675494695/crochet-orla-cardigan-written-pattern": 1
+        }
+    }
+]

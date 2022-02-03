@@ -1,0 +1,73 @@
+[
+    {
+        "sales": 15130
+    },
+    {
+        "sales": 15231,
+        "date": "30/01/22 15:35:34",
+        "today_sales": 101,
+        "frequency": {
+            "https://www.etsy.com/listing/961180863/lark-crochet-throw-blanket-pattern-easy": 29,
+            "https://www.etsy.com/listing/782236313/salzer-crochet-pouf-pattern-crochet": 9,
+            "https://www.etsy.com/listing/614138439/crochet-poncho-pattern-sloane-swoncho": 5,
+            "https://www.etsy.com/listing/568393716/crochet-pouf-pattern-crochet-pillow": 5,
+            "https://www.etsy.com/listing/179720369/crochet-hat-pattern-newsboy-hat-pattern": 5,
+            "https://www.etsy.com/listing/218898614/my-favorite-crochet-pullover-crochet": 4,
+            "https://www.etsy.com/listing/957249349/crochet-pattern-crochet-sweater-pattern": 4,
+            "https://www.etsy.com/listing/521434230/crochet-cardigan-pattern-stark-cardigan": 4,
+            "https://www.etsy.com/listing/126010536/crochet-afghan-pattern-chevron-blanket": 4,
+            "https://www.etsy.com/listing/117571502/crochet-hat-pattern-basic-stripe-beanie": 4,
+            "https://www.etsy.com/listing/519541711/crochet-cowl-pattern-crochet-cowl": 4,
+            "https://www.etsy.com/listing/1152948560/crochet-throw-blanket-pattern-easy-baby": 4,
+            "https://www.etsy.com/listing/213555880/crochet-hoodie-pattern-crochet-childrens": 4,
+            "https://www.etsy.com/listing/174980172/crochet-vest-pattern-crochet-sweater": 4,
+            "https://www.etsy.com/listing/1134344235/crochet-stitch-marker-knit-stitch-marker": 4,
+            "https://www.etsy.com/listing/1120427482/crochet-stitch-marker-knit-stitch-marker": 4,
+            "https://www.etsy.com/listing/280003484/crochet-cardigan-pattern-cardigan": 4
+        }
+    },
+    {
+        "sales": 15238,
+        "date": "31/01/22 11:32:35",
+        "today_sales": 7,
+        "frequency": {
+            "https://www.etsy.com/listing/961180863/lark-crochet-throw-blanket-pattern-easy": 2,
+            "https://www.etsy.com/listing/179720369/crochet-hat-pattern-newsboy-hat-pattern": 1,
+            "https://www.etsy.com/listing/1152948560/crochet-throw-blanket-pattern-easy-baby": 1,
+            "https://www.etsy.com/listing/191512857/crochet-pattern-pouf-pattern-crochet": 1,
+            "https://www.etsy.com/listing/223114827/crochet-cardigan-pattern-childrens": 1,
+            "https://www.etsy.com/listing/280003484/crochet-cardigan-pattern-cardigan": 1
+        }
+    },
+    {
+        "sales": 15242,
+        "date": "01/02/22 13:38:45",
+        "today_sales": 4,
+        "frequency": {
+            "https://www.etsy.com/listing/499977214/crochet-shawl-pattern-topelt-shawl": 1,
+            "https://www.etsy.com/listing/280003484/crochet-cardigan-pattern-cardigan": 1,
+            "https://www.etsy.com/listing/612066065/crochet-poncho-pattern-stearns-poncho": 1,
+            "https://www.etsy.com/listing/961180863/lark-crochet-throw-blanket-pattern-easy": 1
+        }
+    },
+    {
+        "sales": 15247,
+        "date": "02/02/22 12:01:57",
+        "today_sales": 5,
+        "frequency": {
+            "https://www.etsy.com/listing/961180863/lark-crochet-throw-blanket-pattern-easy": 2,
+            "https://www.etsy.com/listing/126010536/crochet-afghan-pattern-chevron-blanket": 1,
+            "https://www.etsy.com/listing/223114827/crochet-cardigan-pattern-childrens": 1,
+            "https://www.etsy.com/listing/179720369/crochet-hat-pattern-newsboy-hat-pattern": 1
+        }
+    },
+    {
+        "sales": 15249,
+        "date": "03/02/22 11:54:16",
+        "today_sales": 2,
+        "frequency": {
+            "https://www.etsy.com/listing/534381723/crochet-cowl-pattern-crochet-cowl": 1,
+            "https://www.etsy.com/listing/191512857/crochet-pattern-pouf-pattern-crochet": 1
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "sales": 294
+    },
+    {
+        "sales": 394,
+        "date": "03/02/22 11:58:48",
+        "today_sales": 100,
+        "frequency": {
+            "https://www.etsy.com/listing/630301366/ombre-poncho-cowl-pdf-digital-pattern": 45,
+            "https://www.etsy.com/listing/832544438/crochet-tank-top-pattern-women-crochet": 8,
+            "https://www.etsy.com/listing/868151429/crochet-tank-top-pattern-crochet-pattern": 8,
+            "https://www.etsy.com/listing/990119348/rainbow-crochet-poncho-by-claudias": 5,
+            "https://www.etsy.com/listing/804353415/crop-top-tank-crochet-digital-pattern": 5,
+            "https://www.etsy.com/listing/244029967/crocheted-lacy-tank-top-by-claudias": 5,
+            "https://www.etsy.com/listing/831990476/crochet-lacy-tank-top-pattern-crochet": 4,
+            "https://www.etsy.com/listing/1093284415/custom-order-susan-black-triangles-and": 4,
+            "https://www.etsy.com/listing/1079734782/custom-made-for-susan-crochet-rainbow": 4,
+            "https://www.etsy.com/listing/660916520/blessings-ombre-shawl-cowl-2-pdf": 4,
+            "https://www.etsy.com/listing/1145041944/custom-order-for-cynthia-custom-vest": 4,
+            "https://www.etsy.com/listing/1144380430/green-scarf-with-buttons-neck-warmer": 4
+        }
+    }
+]

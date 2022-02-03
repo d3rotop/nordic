@@ -1,0 +1,66 @@
+[
+    {
+        "sales": 25686
+    },
+    {
+        "sales": 25786,
+        "date": "30/01/22 12:23:52",
+        "today_sales": 100,
+        "frequency": {
+            "https://www.etsy.com/listing/156411033/crochet-pattern-tea-time-cozy-instant": 13,
+            "https://www.etsy.com/listing/480026243/crochet-pattern-kaleidoscope-fingerless": 12,
+            "https://www.etsy.com/listing/550608152/crochet-pattern-sea-glass-shawl-instant": 9,
+            "https://www.etsy.com/listing/171673577/crochet-pattern-night-owl-decorative": 8,
+            "https://www.etsy.com/listing/62503733/crochet-pattern-simply-felted-ladies": 5,
+            "https://www.etsy.com/listing/80305513/crochet-pattern-wrapped-in-lace-shawl": 5,
+            "https://www.etsy.com/listing/186938103/crochet-pattern-sew-simple-baby-socks": 4,
+            "https://www.etsy.com/listing/169314864/crochet-pattern-french-twist-cowl": 4,
+            "https://www.etsy.com/listing/61173837/crochet-pattern-vintage-inspired-felted": 4,
+            "https://www.etsy.com/listing/130172546/crochet-pattern-owl-love-coffee-cozy": 4,
+            "https://www.etsy.com/listing/211618224/crochet-pattern-cabled-crochet-headband": 4,
+            "https://www.etsy.com/listing/62408382/crochet-pattern-a-touch-of-africa": 4,
+            "https://www.etsy.com/listing/505974808/crochet-pattern-chunky-baby-blanket": 4,
+            "https://www.etsy.com/listing/164545977/crochet-pattern-peekaboo-mittens-instant": 4,
+            "https://www.etsy.com/listing/491724373/crochet-pattern-autumn-leaves-shawl": 4,
+            "https://www.etsy.com/listing/198213178/crochet-pattern-basket-of-owls-baby": 4,
+            "https://www.etsy.com/listing/62736155/crochet-pattern-ladies-fingerless-mitts": 4,
+            "https://www.etsy.com/listing/81860722/crochet-pattern-braided-fingerless-mitts": 4
+        }
+    },
+    {
+        "sales": 25787,
+        "date": "31/01/22 11:31:05",
+        "today_sales": 1,
+        "frequency": {
+            "https://www.etsy.com/listing/164545977/crochet-pattern-peekaboo-mittens-instant": 1
+        }
+    },
+    {
+        "sales": 25791,
+        "date": "01/02/22 13:37:19",
+        "today_sales": 4,
+        "frequency": {
+            "https://www.etsy.com/listing/164545977/crochet-pattern-peekaboo-mittens-instant": 1,
+            "https://www.etsy.com/listing/62503733/crochet-pattern-simply-felted-ladies": 1,
+            "https://www.etsy.com/listing/98494822/crochet-pattern-chunky-cables-decorative": 1,
+            "https://www.etsy.com/listing/80305513/crochet-pattern-wrapped-in-lace-shawl": 1
+        }
+    },
+    {
+        "sales": 25792,
+        "date": "02/02/22 12:00:02",
+        "today_sales": 1,
+        "frequency": {
+            "https://www.etsy.com/listing/209191257/crochet-pattern-lacy-cuffs-instant": 1
+        }
+    },
+    {
+        "sales": 25794,
+        "date": "03/02/22 11:51:43",
+        "today_sales": 2,
+        "frequency": {
+            "https://www.etsy.com/listing/171673577/crochet-pattern-night-owl-decorative": 1,
+            "https://www.etsy.com/listing/255471759/crochet-pattern-woodland-acorn-instant": 1
+        }
+    }
+]

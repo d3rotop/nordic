@@ -1,0 +1,169 @@
+[
+    {
+        "sales": 12106
+    },
+    {
+        "sales": 12206,
+        "date": "13/10/21 20:35:11",
+        "today_sales": 100,
+        "frequency": {
+            "https://www.etsy.com/listing/764017372/crochet-pattern-wild-oleander-hooded": 67,
+            "https://www.etsy.com/listing/851879291/crochet-pattern-wickedly-hooded-pocket": 12,
+            "https://www.etsy.com/listing/988442677/crochet-pattern-wild-wisteria-shawl": 9,
+            "https://www.etsy.com/listing/1034636197/crochet-pattern-chonky-jelly-boy-pattern": 8,
+            "https://www.etsy.com/listing/1086438775/crochet-pattern-wild-hemlock-headscarf": 4
+        }
+    },
+    {
+        "sales": 12226,
+        "date": "14/10/21 20:35:08",
+        "today_sales": 20,
+        "frequency": {
+            "https://www.etsy.com/listing/764017372/crochet-pattern-wild-oleander-hooded": 11,
+            "https://www.etsy.com/listing/851879291/crochet-pattern-wickedly-hooded-pocket": 4,
+            "https://www.etsy.com/listing/1034636197/crochet-pattern-chonky-jelly-boy-pattern": 2,
+            "https://www.etsy.com/listing/1086438775/crochet-pattern-wild-hemlock-headscarf": 2,
+            "https://www.etsy.com/listing/988442677/crochet-pattern-wild-wisteria-shawl": 1
+        }
+    },
+    {
+        "sales": 12245,
+        "date": "15/10/21 20:35:14",
+        "today_sales": 19,
+        "frequency": {
+            "https://www.etsy.com/listing/764017372/crochet-pattern-wild-oleander-hooded": 15,
+            "https://www.etsy.com/listing/1034636197/crochet-pattern-chonky-jelly-boy-pattern": 2,
+            "https://www.etsy.com/listing/988442677/crochet-pattern-wild-wisteria-shawl": 1,
+            "https://www.etsy.com/listing/1086438775/crochet-pattern-wild-hemlock-headscarf": 1
+        }
+    },
+    {
+        "sales": 12258,
+        "date": "16/10/21 20:35:05",
+        "today_sales": 13,
+        "frequency": {
+            "https://www.etsy.com/listing/764017372/crochet-pattern-wild-oleander-hooded": 11,
+            "https://www.etsy.com/listing/1034636197/crochet-pattern-chonky-jelly-boy-pattern": 1,
+            "https://www.etsy.com/listing/1086438775/crochet-pattern-wild-hemlock-headscarf": 1
+        }
+    },
+    {
+        "sales": 12276,
+        "date": "17/10/21 20:35:04",
+        "today_sales": 18,
+        "frequency": {
+            "https://www.etsy.com/listing/764017372/crochet-pattern-wild-oleander-hooded": 12,
+            "https://www.etsy.com/listing/988442677/crochet-pattern-wild-wisteria-shawl": 2,
+            "https://www.etsy.com/listing/851879291/crochet-pattern-wickedly-hooded-pocket": 2,
+            "https://www.etsy.com/listing/947550537/crochet-pattern-belladonna-beanie": 1,
+            "https://www.etsy.com/listing/1034636197/crochet-pattern-chonky-jelly-boy-pattern": 1
+        }
+    },
+    {
+        "sales": 12311,
+        "date": "18/10/21 20:39:03",
+        "today_sales": 35,
+        "frequency": {
+            "https://www.etsy.com/listing/764017372/crochet-pattern-wild-oleander-hooded": 21,
+            "https://www.etsy.com/listing/988442677/crochet-pattern-wild-wisteria-shawl": 4,
+            "https://www.etsy.com/listing/851879291/crochet-pattern-wickedly-hooded-pocket": 4,
+            "https://www.etsy.com/listing/947550537/crochet-pattern-belladonna-beanie": 3,
+            "https://www.etsy.com/listing/1086438775/crochet-pattern-wild-hemlock-headscarf": 3
+        }
+    },
+    {
+        "sales": 12336,
+        "date": "19/10/21 20:35:07",
+        "today_sales": 25,
+        "frequency": {
+            "https://www.etsy.com/listing/764017372/crochet-pattern-wild-oleander-hooded": 18,
+            "https://www.etsy.com/listing/851879291/crochet-pattern-wickedly-hooded-pocket": 5,
+            "https://www.etsy.com/listing/1086438775/crochet-pattern-wild-hemlock-headscarf": 1,
+            "https://www.etsy.com/listing/988442677/crochet-pattern-wild-wisteria-shawl": 1
+        }
+    },
+    {
+        "sales": 12359,
+        "date": "20/10/21 20:34:03",
+        "today_sales": 23,
+        "frequency": {
+            "https://www.etsy.com/listing/764017372/crochet-pattern-wild-oleander-hooded": 15,
+            "https://www.etsy.com/listing/1034636197/crochet-pattern-chonky-jelly-boy-pattern": 5,
+            "https://www.etsy.com/listing/988442677/crochet-pattern-wild-wisteria-shawl": 2,
+            "https://www.etsy.com/listing/947550537/crochet-pattern-belladonna-beanie": 1
+        }
+    },
+    {
+        "sales": 12388,
+        "date": "21/10/21 20:42:22",
+        "today_sales": 29,
+        "frequency": {
+            "https://www.etsy.com/listing/764017372/crochet-pattern-wild-oleander-hooded": 23,
+            "https://www.etsy.com/listing/1034636197/crochet-pattern-chonky-jelly-boy-pattern": 3,
+            "https://www.etsy.com/listing/1086438775/crochet-pattern-wild-hemlock-headscarf": 1,
+            "https://www.etsy.com/listing/988442677/crochet-pattern-wild-wisteria-shawl": 1,
+            "https://www.etsy.com/listing/947550537/crochet-pattern-belladonna-beanie": 1
+        }
+    },
+    {
+        "sales": 12409,
+        "date": "22/10/21 20:37:51",
+        "today_sales": 21,
+        "frequency": {
+            "https://www.etsy.com/listing/764017372/crochet-pattern-wild-oleander-hooded": 16,
+            "https://www.etsy.com/listing/1034636197/crochet-pattern-chonky-jelly-boy-pattern": 2,
+            "https://www.etsy.com/listing/1086438775/crochet-pattern-wild-hemlock-headscarf": 2,
+            "https://www.etsy.com/listing/851879291/crochet-pattern-wickedly-hooded-pocket": 1
+        }
+    },
+    {
+        "sales": 16888,
+        "date": "31/01/22 11:49:09",
+        "today_sales": 4479,
+        "frequency": {
+            "https://www.etsy.com/listing/764017372/crochet-pattern-wild-oleander-hooded": 2425,
+            "https://www.etsy.com/listing/851879291/crochet-pattern-wickedly-hooded-pocket": 1120,
+            "https://www.etsy.com/listing/988442677/crochet-pattern-wild-wisteria-shawl": 374,
+            "https://www.etsy.com/listing/861615734/stitch-marker-wooden-stitch-markers": 187,
+            "https://www.etsy.com/listing/947550537/crochet-pattern-belladonna-beanie": 187,
+            "https://www.etsy.com/listing/1086438775/crochet-pattern-wild-hemlock-headscarf": 186
+        }
+    },
+    {
+        "sales": 16900,
+        "date": "01/02/22 12:16:10",
+        "today_sales": 12,
+        "frequency": {
+            "https://www.etsy.com/listing/764017372/crochet-pattern-wild-oleander-hooded": 8,
+            "https://www.etsy.com/listing/851879291/crochet-pattern-wickedly-hooded-pocket": 2,
+            "https://www.etsy.com/listing/1034636197/crochet-pattern-chonky-jelly-boy-pattern": 1,
+            "https://www.etsy.com/listing/1086438775/crochet-pattern-wild-hemlock-headscarf": 1
+        }
+    },
+    {
+        "sales": 16915,
+        "date": "02/02/22 11:38:49",
+        "today_sales": 15,
+        "frequency": {
+            "https://www.etsy.com/listing/764017372/crochet-pattern-wild-oleander-hooded": 9,
+            "https://www.etsy.com/listing/851879291/crochet-pattern-wickedly-hooded-pocket": 2,
+            "https://www.etsy.com/listing/875530127/stitch-marker-wooden-stitch-markers": 1,
+            "https://www.etsy.com/listing/869777722/made-to-order-wickedly-handmade-keychain": 1,
+            "https://www.etsy.com/listing/861615734/stitch-marker-wooden-stitch-markers": 1,
+            "https://www.etsy.com/listing/947550537/crochet-pattern-belladonna-beanie": 1
+        }
+    },
+    {
+        "sales": 16930,
+        "date": "03/02/22 11:30:01",
+        "today_sales": 15,
+        "frequency": {
+            "https://www.etsy.com/listing/764017372/crochet-pattern-wild-oleander-hooded": 5,
+            "https://www.etsy.com/listing/851879291/crochet-pattern-wickedly-hooded-pocket": 4,
+            "https://www.etsy.com/listing/947550537/crochet-pattern-belladonna-beanie": 2,
+            "https://www.etsy.com/listing/1034636197/crochet-pattern-chonky-jelly-boy-pattern": 2,
+            "https://www.etsy.com/listing/988442677/crochet-pattern-wild-wisteria-shawl": 1,
+            "https://www.etsy.com/listing/1086438775/crochet-pattern-wild-hemlock-headscarf": 1
+        }
+    }
+]

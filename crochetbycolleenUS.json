@@ -1,0 +1,148 @@
+[
+    {
+        "sales": 1880
+    },
+    {
+        "sales": 1980,
+        "date": "13/10/21 16:54:19",
+        "today_sales": 100,
+        "frequency": {
+            "https://www.etsy.com/listing/690416710/crochet-patterns-doll-face-crochet-for": 16,
+            "https://www.etsy.com/listing/734319580/crochet-pdf-pattern-easy-crochet-bag": 13,
+            "https://www.etsy.com/listing/940412743/pattern-crochet-pattern-applique-crochet": 13,
+            "https://www.etsy.com/listing/915266955/pattern-crochet-applique-ornament-for": 9,
+            "https://www.etsy.com/listing/831625071/pattern-crochet-dog-applique-yellow-lab": 8,
+            "https://www.etsy.com/listing/801861303/pattern-crochet-house-cottage-applique": 8,
+            "https://www.etsy.com/listing/809143253/pattern-crochet-fish-fly-fishing-lure": 5,
+            "https://www.etsy.com/listing/810707961/pattern-crochet-camping-applique-camper": 4,
+            "https://www.etsy.com/listing/1021800504/pattern-crochet-applique-jeep-car": 4,
+            "https://www.etsy.com/listing/743706298/crochet-pattern-wine-bottle-decor-wine": 4,
+            "https://www.etsy.com/listing/907089485/pattern-crochet-nutcracker-soilder": 4,
+            "https://www.etsy.com/listing/798262590/pattern-crochet-flower-cart-applique": 4,
+            "https://www.etsy.com/listing/838756887/pattern-crochet-scooter-applique-modern": 4,
+            "https://www.etsy.com/listing/1068108934/pattern-crochet-pumpkin-truck-applique": 4
+        }
+    },
+    {
+        "sales": 1981,
+        "date": "14/10/21 16:54:17",
+        "today_sales": 1,
+        "frequency": {
+            "https://www.etsy.com/listing/690416710/crochet-patterns-doll-face-crochet-for": 1
+        }
+    },
+    {
+        "sales": 1983,
+        "date": "15/10/21 16:58:02",
+        "today_sales": 2,
+        "frequency": {
+            "https://www.etsy.com/listing/743706298/crochet-pattern-wine-bottle-decor-wine": 1,
+            "https://www.etsy.com/listing/1068108934/pattern-crochet-pumpkin-truck-applique": 1
+        }
+    },
+    {
+        "sales": 1985,
+        "date": "16/10/21 16:54:15",
+        "today_sales": 2,
+        "frequency": {
+            "https://www.etsy.com/listing/1068108934/pattern-crochet-pumpkin-truck-applique": 1,
+            "https://www.etsy.com/listing/801861303/pattern-crochet-house-cottage-applique": 1
+        }
+    },
+    {
+        "sales": 1987,
+        "date": "17/10/21 16:54:15",
+        "today_sales": 2,
+        "frequency": {
+            "https://www.etsy.com/listing/734319580/crochet-pdf-pattern-easy-crochet-bag": 1,
+            "https://www.etsy.com/listing/690416710/crochet-patterns-doll-face-crochet-for": 1
+        }
+    },
+    {
+        "sales": 1989,
+        "date": "18/10/21 16:59:44",
+        "today_sales": 2,
+        "frequency": {
+            "https://www.etsy.com/listing/1068108934/pattern-crochet-pumpkin-truck-applique": 1,
+            "https://www.etsy.com/listing/801861303/pattern-crochet-house-cottage-applique": 1
+        }
+    },
+    {
+        "sales": 1993,
+        "date": "19/10/21 16:55:17",
+        "today_sales": 4,
+        "frequency": {
+            "https://www.etsy.com/listing/809143253/pattern-crochet-fish-fly-fishing-lure": 2,
+            "https://www.etsy.com/listing/1068108934/pattern-crochet-pumpkin-truck-applique": 1,
+            "https://www.etsy.com/listing/940412743/pattern-crochet-pattern-applique-crochet": 1
+        }
+    },
+    {
+        "sales": 1994,
+        "date": "20/10/21 16:54:57",
+        "today_sales": 1,
+        "frequency": {
+            "https://www.etsy.com/listing/902660167/pattern-crochet-christmas-ornament": 1
+        }
+    },
+    {
+        "sales": 1999,
+        "date": "21/10/21 17:00:49",
+        "today_sales": 5,
+        "frequency": {
+            "https://www.etsy.com/listing/902660167/pattern-crochet-christmas-ornament": 1,
+            "https://www.etsy.com/listing/743706298/crochet-pattern-wine-bottle-decor-wine": 1,
+            "https://www.etsy.com/listing/817932711/pattern-crochet-summer-floats-crochet": 1,
+            "https://www.etsy.com/listing/690416710/crochet-patterns-doll-face-crochet-for": 1,
+            "https://www.etsy.com/listing/1068108934/pattern-crochet-pumpkin-truck-applique": 1
+        }
+    },
+    {
+        "sales": 2002,
+        "date": "22/10/21 16:52:44",
+        "today_sales": 3,
+        "frequency": {
+            "https://www.etsy.com/listing/1020193938/pattern-crochet-applique-crochet-decal": 1,
+            "https://www.etsy.com/listing/730137183/crochet-pdf-pattern-crochet-lavender": 1,
+            "https://www.etsy.com/listing/690416710/crochet-patterns-doll-face-crochet-for": 1
+        }
+    },
+    {
+        "sales": 2241,
+        "date": "31/01/22 11:54:29",
+        "today_sales": 239,
+        "frequency": {
+            "https://www.etsy.com/listing/690416710/crochet-patterns-doll-face-crochet-for": 80,
+            "https://www.etsy.com/listing/801861303/pattern-crochet-house-cottage-applique": 29,
+            "https://www.etsy.com/listing/1130767175/pattern-crochet-fur-cuff-mittens-crochet": 20,
+            "https://www.etsy.com/listing/1005543307/pattern-crochet-bicycle-applique-pattern": 10,
+            "https://www.etsy.com/listing/813438683/pattern-crochet-heart-sunglasses-pdf": 10,
+            "https://www.etsy.com/listing/915266955/pattern-crochet-applique-ornament-for": 10,
+            "https://www.etsy.com/listing/838756887/pattern-crochet-scooter-applique-modern": 10,
+            "https://www.etsy.com/listing/810133487/pattern-crochet-applique-bbq-grill-beer": 10,
+            "https://www.etsy.com/listing/948073604/pattern-crochet-snowy-owl-applique": 10,
+            "https://www.etsy.com/listing/829449423/pattern-crochet-seagull-applique-pattern": 10,
+            "https://www.etsy.com/listing/1075558749/pattern-crochet-earrings-raffia-yarn": 10,
+            "https://www.etsy.com/listing/776597632/crochet-heart-tote-bag-cute-crocheted": 10,
+            "https://www.etsy.com/listing/777302193/crochet-engagement-ring-applique-pattern": 10,
+            "https://www.etsy.com/listing/831625071/pattern-crochet-dog-applique-yellow-lab": 10
+        }
+    },
+    {
+        "sales": 2241,
+        "date": "01/02/22 13:19:08",
+        "today_sales": 0,
+        "frequency": {}
+    },
+    {
+        "sales": 2245,
+        "date": "02/02/22 11:40:41",
+        "today_sales": 4,
+        "frequency": {
+            "https://www.etsy.com/listing/940412743/pattern-crochet-pattern-applique-crochet": 1,
+            "https://www.etsy.com/listing/996571032/pattern-crochet-hydrangea-bouquet": 1,
+            "https://www.etsy.com/listing/690416710/crochet-patterns-doll-face-crochet-for": 1,
+            "https://www.etsy.com/listing/734319580/crochet-pdf-pattern-easy-crochet-bag": 1
+        }
+    }
+]

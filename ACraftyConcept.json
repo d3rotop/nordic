@@ -1,0 +1,82 @@
+[
+    {
+        "sales": 23955
+    },
+    {
+        "sales": 24055,
+        "date": "30/01/22 11:59:14",
+        "today_sales": 100,
+        "frequency": {
+            "https://www.etsy.com/listing/720258660/crochet-pattern-baby-claire-beanies": 14,
+            "https://www.etsy.com/listing/1098611259/machine-knit-pattern-addi-bear-addi-knit": 13,
+            "https://www.etsy.com/listing/716109564/crochet-pattern-rainbow-baby-rattle": 12,
+            "https://www.etsy.com/listing/551115115/crochet-pattern-rainbow-pillow-crochet": 8,
+            "https://www.etsy.com/listing/1008560454/crochet-plastic-bag-holder-pattern-boho": 8,
+            "https://www.etsy.com/listing/530881352/crochet-pattern-womens-bag-crochet-purse": 5,
+            "https://www.etsy.com/listing/525687396/crochet-pattern-crochet-bag-crochet": 4,
+            "https://www.etsy.com/listing/750178465/crochet-pattern-christmas-stocking": 4,
+            "https://www.etsy.com/listing/710957570/crochet-pattern-pencil-pillow-crochet": 4,
+            "https://www.etsy.com/listing/696139519/crochet-pattern-crochet-dinosaur": 4,
+            "https://www.etsy.com/listing/693467167/crochet-pattern-house-slippers-crochet": 4,
+            "https://www.etsy.com/listing/514375024/claire-bun-beanie-crochet-pattern": 4,
+            "https://www.etsy.com/listing/720734363/crochet-pattern-rainbow-earrings-with": 4,
+            "https://www.etsy.com/listing/760542744/crochet-cactus-pattern-crochet-cactus": 4,
+            "https://www.etsy.com/listing/699913161/crochet-pattern-wall-hanging-crochet": 4,
+            "https://www.etsy.com/listing/706782033/crochet-pattern-unicorn-wall-hanger": 4
+        }
+    },
+    {
+        "sales": 24067,
+        "date": "31/01/22 11:30:05",
+        "today_sales": 12,
+        "frequency": {
+            "https://www.etsy.com/listing/514375024/claire-bun-beanie-crochet-pattern": 3,
+            "https://www.etsy.com/listing/1098611259/machine-knit-pattern-addi-bear-addi-knit": 2,
+            "https://www.etsy.com/listing/716109564/crochet-pattern-rainbow-baby-rattle": 2,
+            "https://www.etsy.com/listing/720258660/crochet-pattern-baby-claire-beanies": 1,
+            "https://www.etsy.com/listing/768439015/crochet-pattern-fuzzy-monster-crochet": 1,
+            "https://www.etsy.com/listing/496260532/messy-bun-beanie-mom-bun-beanie-messy": 1,
+            "https://www.etsy.com/listing/720734363/crochet-pattern-rainbow-earrings-with": 1,
+            "https://www.etsy.com/listing/840652819/crochet-pattern-amigurumi-doll-pattern": 1
+        }
+    },
+    {
+        "sales": 24079,
+        "date": "01/02/22 13:36:06",
+        "today_sales": 12,
+        "frequency": {
+            "https://www.etsy.com/listing/840652819/crochet-pattern-amigurumi-doll-pattern": 2,
+            "https://www.etsy.com/listing/750178465/crochet-pattern-christmas-stocking": 2,
+            "https://www.etsy.com/listing/548927267/crochet-pattern-pineapple-pillow-digital": 1,
+            "https://www.etsy.com/listing/931570886/crochet-pattern-nesting-baskets-crochet": 1,
+            "https://www.etsy.com/listing/514375024/claire-bun-beanie-crochet-pattern": 1,
+            "https://www.etsy.com/listing/760542744/crochet-cactus-pattern-crochet-cactus": 1,
+            "https://www.etsy.com/listing/530881352/crochet-pattern-womens-bag-crochet-purse": 1,
+            "https://www.etsy.com/listing/1098611259/machine-knit-pattern-addi-bear-addi-knit": 1,
+            "https://www.etsy.com/listing/706782033/crochet-pattern-unicorn-wall-hanger": 1,
+            "https://www.etsy.com/listing/525687396/crochet-pattern-crochet-bag-crochet": 1
+        }
+    },
+    {
+        "sales": 24100,
+        "date": "02/02/22 11:58:59",
+        "today_sales": 21,
+        "frequency": {
+            "https://www.etsy.com/listing/514375024/claire-bun-beanie-crochet-pattern": 4,
+            "https://www.etsy.com/listing/706782033/crochet-pattern-unicorn-wall-hanger": 2,
+            "https://www.etsy.com/listing/699913161/crochet-pattern-wall-hanging-crochet": 2,
+            "https://www.etsy.com/listing/716109564/crochet-pattern-rainbow-baby-rattle": 2,
+            "https://www.etsy.com/listing/982730948/crochet-hook-butterfly-sticker-crochet": 1,
+            "https://www.etsy.com/listing/530881352/crochet-pattern-womens-bag-crochet-purse": 1,
+            "https://www.etsy.com/listing/525687396/crochet-pattern-crochet-bag-crochet": 1,
+            "https://www.etsy.com/listing/750178465/crochet-pattern-christmas-stocking": 1,
+            "https://www.etsy.com/listing/760542744/crochet-cactus-pattern-crochet-cactus": 1,
+            "https://www.etsy.com/listing/768439015/crochet-pattern-fuzzy-monster-crochet": 1,
+            "https://www.etsy.com/listing/1098611259/machine-knit-pattern-addi-bear-addi-knit": 1,
+            "https://www.etsy.com/listing/1008560454/crochet-plastic-bag-holder-pattern-boho": 1,
+            "https://www.etsy.com/listing/592524460/crochet-pattern-baby-bib-crochet-bib": 1,
+            "https://www.etsy.com/listing/905668729/crochet-pattern-coffee-cup-cozy-crochet": 1,
+            "https://www.etsy.com/listing/710957570/crochet-pattern-pencil-pillow-crochet": 1
+        }
+    }
+]

@@ -1,0 +1,264 @@
+[
+    {
+        "sales": 28536
+    },
+    {
+        "sales": 28636,
+        "date": "13/10/21 20:40:07",
+        "today_sales": 100,
+        "frequency": {
+            "https://www.etsy.com/listing/762292338/dog-sweater-crochet-pattern": 20,
+            "https://www.etsy.com/listing/902537963/herringbone-socks-crochet-pattern": 17,
+            "https://www.etsy.com/listing/777518229/large-dog-sweater-crochet-pattern": 12,
+            "https://www.etsy.com/listing/707898128/hooded-cardigan-child-sizes": 12,
+            "https://www.etsy.com/listing/583477847/painted-canyon-cardigan-crochet-pattern": 5,
+            "https://www.etsy.com/listing/501044584/dragon-tears-leg-warmers-crochet-pattern": 5,
+            "https://www.etsy.com/listing/1086375772/sangria-sorbet-blanket-crochet-pattern": 5,
+            "https://www.etsy.com/listing/887248454/stellar-dog-sweater": 4,
+            "https://www.etsy.com/listing/731904843/hibernation-hoodie-crochet-pattern": 4,
+            "https://www.etsy.com/listing/921764164/filet-poncho-crochet-pattern": 4,
+            "https://www.etsy.com/listing/703696522/sunday-ballet-slippers-crochet-pattern": 4,
+            "https://www.etsy.com/listing/717140721/creightons-blanket-crochet-pattern": 4,
+            "https://www.etsy.com/listing/767747475/velvet-cardi-crochet-pattern": 4
+        }
+    },
+    {
+        "sales": 28671,
+        "date": "14/10/21 20:40:09",
+        "today_sales": 35,
+        "frequency": {
+            "https://www.etsy.com/listing/762292338/dog-sweater-crochet-pattern": 13,
+            "https://www.etsy.com/listing/902537963/herringbone-socks-crochet-pattern": 4,
+            "https://www.etsy.com/listing/583477847/painted-canyon-cardigan-crochet-pattern": 4,
+            "https://www.etsy.com/listing/597559491/blanket-cardigan-crochet-pattern": 3,
+            "https://www.etsy.com/listing/763970835/wanderlust-shawl-crochet-pattern": 2,
+            "https://www.etsy.com/listing/731904843/hibernation-hoodie-crochet-pattern": 2,
+            "https://www.etsy.com/listing/791831189/shanti-sweater-crochet-pattern": 2,
+            "https://www.etsy.com/listing/921764164/filet-poncho-crochet-pattern": 2,
+            "https://www.etsy.com/listing/716648039/its-shawl-good-cardigan-fringed-triangle": 1,
+            "https://www.etsy.com/listing/717400511/the-elizabeth-cardigan-crochet-pattern": 1,
+            "https://www.etsy.com/listing/777518229/large-dog-sweater-crochet-pattern": 1
+        }
+    },
+    {
+        "sales": 28718,
+        "date": "15/10/21 20:39:28",
+        "today_sales": 47,
+        "frequency": {
+            "https://www.etsy.com/listing/762292338/dog-sweater-crochet-pattern": 14,
+            "https://www.etsy.com/listing/902537963/herringbone-socks-crochet-pattern": 7,
+            "https://www.etsy.com/listing/703726406/cozy-coed-cardigan-crochet-pattern": 4,
+            "https://www.etsy.com/listing/777518229/large-dog-sweater-crochet-pattern": 4,
+            "https://www.etsy.com/listing/707898128/hooded-cardigan-child-sizes": 2,
+            "https://www.etsy.com/listing/887248454/stellar-dog-sweater": 2,
+            "https://www.etsy.com/listing/501044584/dragon-tears-leg-warmers-crochet-pattern": 2,
+            "https://www.etsy.com/listing/732624679/on-point-poncho-crochet-pattern": 2,
+            "https://www.etsy.com/listing/717140721/creightons-blanket-crochet-pattern": 2,
+            "https://www.etsy.com/listing/717085771/woven-in-time-sofa-blanket-crochet": 2,
+            "https://www.etsy.com/listing/514530275/dragon-tears-fingerless-gloves-crochet": 2,
+            "https://www.etsy.com/listing/863375228/toe-tally-easy-socks-crochet-pattern": 2,
+            "https://www.etsy.com/listing/985658910/child-v-neck-sweater-crochet-pattern": 2
+        }
+    },
+    {
+        "sales": 28754,
+        "date": "16/10/21 20:40:09",
+        "today_sales": 36,
+        "frequency": {
+            "https://www.etsy.com/listing/762292338/dog-sweater-crochet-pattern": 13,
+            "https://www.etsy.com/listing/902537963/herringbone-socks-crochet-pattern": 6,
+            "https://www.etsy.com/listing/703726406/cozy-coed-cardigan-crochet-pattern": 3,
+            "https://www.etsy.com/listing/777518229/large-dog-sweater-crochet-pattern": 3,
+            "https://www.etsy.com/listing/719352319/shell-yeah-tunic-crochet-pattern": 2,
+            "https://www.etsy.com/listing/717370481/give-me-a-hygge-scarf-with-sleeves": 2,
+            "https://www.etsy.com/listing/796100093/cocoon-sweater-crochet-pattern": 2,
+            "https://www.etsy.com/listing/501044584/dragon-tears-leg-warmers-crochet-pattern": 1,
+            "https://www.etsy.com/listing/583477847/painted-canyon-cardigan-crochet-pattern": 1,
+            "https://www.etsy.com/listing/583763974/vertical-row-blanket-cardigan-crochet": 1,
+            "https://www.etsy.com/listing/717140721/creightons-blanket-crochet-pattern": 1,
+            "https://www.etsy.com/listing/707898128/hooded-cardigan-child-sizes": 1
+        }
+    },
+    {
+        "sales": 28795,
+        "date": "17/10/21 20:39:44",
+        "today_sales": 41,
+        "frequency": {
+            "https://www.etsy.com/listing/762292338/dog-sweater-crochet-pattern": 23,
+            "https://www.etsy.com/listing/777518229/large-dog-sweater-crochet-pattern": 4,
+            "https://www.etsy.com/listing/707898128/hooded-cardigan-child-sizes": 3,
+            "https://www.etsy.com/listing/902537963/herringbone-socks-crochet-pattern": 3,
+            "https://www.etsy.com/listing/717400511/the-elizabeth-cardigan-crochet-pattern": 2,
+            "https://www.etsy.com/listing/743360353/grid-cardi-crochet-pattern": 2,
+            "https://www.etsy.com/listing/583477847/painted-canyon-cardigan-crochet-pattern": 1,
+            "https://www.etsy.com/listing/984221653/basic-v-neck-sweater-crochet-pattern": 1,
+            "https://www.etsy.com/listing/703726406/cozy-coed-cardigan-crochet-pattern": 1,
+            "https://www.etsy.com/listing/514530275/dragon-tears-fingerless-gloves-crochet": 1
+        }
+    },
+    {
+        "sales": 28845,
+        "date": "18/10/21 20:39:51",
+        "today_sales": 50,
+        "frequency": {
+            "https://www.etsy.com/listing/762292338/dog-sweater-crochet-pattern": 15,
+            "https://www.etsy.com/listing/902537963/herringbone-socks-crochet-pattern": 8,
+            "https://www.etsy.com/listing/777518229/large-dog-sweater-crochet-pattern": 4,
+            "https://www.etsy.com/listing/984221653/basic-v-neck-sweater-crochet-pattern": 4,
+            "https://www.etsy.com/listing/1089370550/tunisian-sunrise-tank-crochet-pattern": 4,
+            "https://www.etsy.com/listing/947725164/llama-dusting-mitt-crochet-pattern": 3,
+            "https://www.etsy.com/listing/514922011/an-egg-cellent-apron-crochet-pattern": 2,
+            "https://www.etsy.com/listing/707898128/hooded-cardigan-child-sizes": 2,
+            "https://www.etsy.com/listing/939824583/pan-protectors-crochet-pattern": 2,
+            "https://www.etsy.com/listing/1070520047/solomons-hair-net-crochet-pattern": 2,
+            "https://www.etsy.com/listing/930086087/crochet-cluster-cowl-crochet-pattern": 2,
+            "https://www.etsy.com/listing/514607301/messy-mom-bun-beanie-crochet-pattern": 2
+        }
+    },
+    {
+        "sales": 28889,
+        "date": "19/10/21 20:39:02",
+        "today_sales": 44,
+        "frequency": {
+            "https://www.etsy.com/listing/762292338/dog-sweater-crochet-pattern": 18,
+            "https://www.etsy.com/listing/902537963/herringbone-socks-crochet-pattern": 7,
+            "https://www.etsy.com/listing/583477847/painted-canyon-cardigan-crochet-pattern": 6,
+            "https://www.etsy.com/listing/887248454/stellar-dog-sweater": 3,
+            "https://www.etsy.com/listing/514922011/an-egg-cellent-apron-crochet-pattern": 2,
+            "https://www.etsy.com/listing/502135754/egg-cellent-child-size-apron-crochet": 2,
+            "https://www.etsy.com/listing/777518229/large-dog-sweater-crochet-pattern": 2,
+            "https://www.etsy.com/listing/731904843/hibernation-hoodie-crochet-pattern": 2,
+            "https://www.etsy.com/listing/703726406/cozy-coed-cardigan-crochet-pattern": 1,
+            "https://www.etsy.com/listing/939824583/pan-protectors-crochet-pattern": 1
+        }
+    },
+    {
+        "sales": 28925,
+        "date": "20/10/21 20:41:04",
+        "today_sales": 36,
+        "frequency": {
+            "https://www.etsy.com/listing/762292338/dog-sweater-crochet-pattern": 16,
+            "https://www.etsy.com/listing/902537963/herringbone-socks-crochet-pattern": 6,
+            "https://www.etsy.com/listing/703726406/cozy-coed-cardigan-crochet-pattern": 4,
+            "https://www.etsy.com/listing/514530275/dragon-tears-fingerless-gloves-crochet": 2,
+            "https://www.etsy.com/listing/501044584/dragon-tears-leg-warmers-crochet-pattern": 2,
+            "https://www.etsy.com/listing/1089370550/tunisian-sunrise-tank-crochet-pattern": 2,
+            "https://www.etsy.com/listing/984221653/basic-v-neck-sweater-crochet-pattern": 1,
+            "https://www.etsy.com/listing/597559491/blanket-cardigan-crochet-pattern": 1,
+            "https://www.etsy.com/listing/527349919/bookmark-series-of-patterns-crochet": 1,
+            "https://www.etsy.com/listing/777518229/large-dog-sweater-crochet-pattern": 1
+        }
+    },
+    {
+        "sales": 28954,
+        "date": "21/10/21 20:43:04",
+        "today_sales": 29,
+        "frequency": {
+            "https://www.etsy.com/listing/762292338/dog-sweater-crochet-pattern": 12,
+            "https://www.etsy.com/listing/902537963/herringbone-socks-crochet-pattern": 6,
+            "https://www.etsy.com/listing/703696522/sunday-ballet-slippers-crochet-pattern": 2,
+            "https://www.etsy.com/listing/703726406/cozy-coed-cardigan-crochet-pattern": 2,
+            "https://www.etsy.com/listing/887248454/stellar-dog-sweater": 1,
+            "https://www.etsy.com/listing/791831189/shanti-sweater-crochet-pattern": 1,
+            "https://www.etsy.com/listing/756666054/velvet-cardi-for-kids-crochet-pattern": 1,
+            "https://www.etsy.com/listing/1089370550/tunisian-sunrise-tank-crochet-pattern": 1,
+            "https://www.etsy.com/listing/816169747/go-with-the-flow-poncho-crochet-pattern": 1,
+            "https://www.etsy.com/listing/777518229/large-dog-sweater-crochet-pattern": 1,
+            "https://www.etsy.com/listing/514530275/dragon-tears-fingerless-gloves-crochet": 1
+        }
+    },
+    {
+        "sales": 28991,
+        "date": "22/10/21 20:38:28",
+        "today_sales": 37,
+        "frequency": {
+            "https://www.etsy.com/listing/762292338/dog-sweater-crochet-pattern": 11,
+            "https://www.etsy.com/listing/777518229/large-dog-sweater-crochet-pattern": 4,
+            "https://www.etsy.com/listing/902537963/herringbone-socks-crochet-pattern": 4,
+            "https://www.etsy.com/listing/717085771/woven-in-time-sofa-blanket-crochet": 2,
+            "https://www.etsy.com/listing/514922011/an-egg-cellent-apron-crochet-pattern": 2,
+            "https://www.etsy.com/listing/731904843/hibernation-hoodie-crochet-pattern": 2,
+            "https://www.etsy.com/listing/939824583/pan-protectors-crochet-pattern": 2,
+            "https://www.etsy.com/listing/514530275/dragon-tears-fingerless-gloves-crochet": 2,
+            "https://www.etsy.com/listing/816169747/go-with-the-flow-poncho-crochet-pattern": 2,
+            "https://www.etsy.com/listing/732624679/on-point-poncho-crochet-pattern": 2,
+            "https://www.etsy.com/listing/1089370550/tunisian-sunrise-tank-crochet-pattern": 2,
+            "https://www.etsy.com/listing/791831189/shanti-sweater-crochet-pattern": 1,
+            "https://www.etsy.com/listing/890885874/shady-shell-cocoon-crochet-pattern": 1
+        }
+    },
+    {
+        "sales": 33864,
+        "date": "30/01/22 12:43:03",
+        "today_sales": 4873,
+        "frequency": {
+            "https://www.etsy.com/listing/514922011/an-egg-cellent-apron-crochet-pattern": 1624,
+            "https://www.etsy.com/listing/762292338/dog-sweater-crochet-pattern": 1015,
+            "https://www.etsy.com/listing/902537963/herringbone-socks-crochet-pattern": 1015,
+            "https://www.etsy.com/listing/984221653/basic-v-neck-sweater-crochet-pattern": 204,
+            "https://www.etsy.com/listing/716648039/its-shawl-good-cardigan-fringed-triangle": 203,
+            "https://www.etsy.com/listing/597559491/blanket-cardigan-crochet-pattern": 203,
+            "https://www.etsy.com/listing/501044584/dragon-tears-leg-warmers-crochet-pattern": 203,
+            "https://www.etsy.com/listing/514530275/dragon-tears-fingerless-gloves-crochet": 203,
+            "https://www.etsy.com/listing/939824583/pan-protectors-crochet-pattern": 203
+        }
+    },
+    {
+        "sales": 33932,
+        "date": "31/01/22 11:37:51",
+        "today_sales": 68,
+        "frequency": {
+            "https://www.etsy.com/listing/514922011/an-egg-cellent-apron-crochet-pattern": 27,
+            "https://www.etsy.com/listing/762292338/dog-sweater-crochet-pattern": 11,
+            "https://www.etsy.com/listing/514530275/dragon-tears-fingerless-gloves-crochet": 5,
+            "https://www.etsy.com/listing/767747475/velvet-cardi-crochet-pattern": 5,
+            "https://www.etsy.com/listing/703025364/easy-peasy-lemon-squeezy-pullover": 3,
+            "https://www.etsy.com/listing/716648039/its-shawl-good-cardigan-fringed-triangle": 3,
+            "https://www.etsy.com/listing/703696522/sunday-ballet-slippers-crochet-pattern": 3,
+            "https://www.etsy.com/listing/774085751/maes-chevron-crochet-pattern": 3,
+            "https://www.etsy.com/listing/703726406/cozy-coed-cardigan-crochet-pattern": 3,
+            "https://www.etsy.com/listing/913930949/tunisian-short-row-cardi-crochet-pattern": 3,
+            "https://www.etsy.com/listing/902537963/herringbone-socks-crochet-pattern": 2
+        }
+    },
+    {
+        "sales": 33967,
+        "date": "01/02/22 13:34:00",
+        "today_sales": 35,
+        "frequency": {
+            "https://www.etsy.com/listing/583477847/painted-canyon-cardigan-crochet-pattern": 6,
+            "https://www.etsy.com/listing/902537963/herringbone-socks-crochet-pattern": 5,
+            "https://www.etsy.com/listing/762292338/dog-sweater-crochet-pattern": 5,
+            "https://www.etsy.com/listing/777518229/large-dog-sweater-crochet-pattern": 5,
+            "https://www.etsy.com/listing/514922011/an-egg-cellent-apron-crochet-pattern": 4,
+            "https://www.etsy.com/listing/774085751/maes-chevron-crochet-pattern": 2,
+            "https://www.etsy.com/listing/717400511/the-elizabeth-cardigan-crochet-pattern": 2,
+            "https://www.etsy.com/listing/583763974/vertical-row-blanket-cardigan-crochet": 2,
+            "https://www.etsy.com/listing/502135754/egg-cellent-child-size-apron-crochet": 2,
+            "https://www.etsy.com/listing/707898128/hooded-cardigan-child-sizes": 1,
+            "https://www.etsy.com/listing/985044054/track-stitch-tunic-crochet-pattern": 1
+        }
+    },
+    {
+        "sales": 34007,
+        "date": "02/02/22 11:56:45",
+        "today_sales": 40,
+        "frequency": {
+            "https://www.etsy.com/listing/777518229/large-dog-sweater-crochet-pattern": 6,
+            "https://www.etsy.com/listing/514922011/an-egg-cellent-apron-crochet-pattern": 6,
+            "https://www.etsy.com/listing/762292338/dog-sweater-crochet-pattern": 6,
+            "https://www.etsy.com/listing/707898128/hooded-cardigan-child-sizes": 3,
+            "https://www.etsy.com/listing/984221653/basic-v-neck-sweater-crochet-pattern": 2,
+            "https://www.etsy.com/listing/583477847/painted-canyon-cardigan-crochet-pattern": 2,
+            "https://www.etsy.com/listing/902537963/herringbone-socks-crochet-pattern": 2,
+            "https://www.etsy.com/listing/703696522/sunday-ballet-slippers-crochet-pattern": 2,
+            "https://www.etsy.com/listing/527349919/bookmark-series-of-patterns-crochet": 2,
+            "https://www.etsy.com/listing/703726406/cozy-coed-cardigan-crochet-pattern": 2,
+            "https://www.etsy.com/listing/716648039/its-shawl-good-cardigan-fringed-triangle": 2,
+            "https://www.etsy.com/listing/863375228/toe-tally-easy-socks-crochet-pattern": 2,
+            "https://www.etsy.com/listing/1086375772/sangria-sorbet-blanket-crochet-pattern": 1,
+            "https://www.etsy.com/listing/703702894/hedonists-housecoat-crochet-pattern": 1,
+            "https://www.etsy.com/listing/717400511/the-elizabeth-cardigan-crochet-pattern": 1
+        }
+    }
+]

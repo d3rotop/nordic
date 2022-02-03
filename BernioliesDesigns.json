@@ -1,0 +1,60 @@
+[
+    {
+        "sales": 24476
+    },
+    {
+        "sales": 24576,
+        "date": "30/01/22 12:25:29",
+        "today_sales": 100,
+        "frequency": {
+            "https://www.etsy.com/listing/1059179627/kirana-crochet-shawl-pattern-pdf": 8,
+            "https://www.etsy.com/listing/702704942/izumi-crochet-shawl-pattern-pdf": 8,
+            "https://www.etsy.com/listing/702891234/selma-knitting-capelet-pattern-pdf": 5,
+            "https://www.etsy.com/listing/716767011/eretria-crochet-shawl-pattern-pdf": 5,
+            "https://www.etsy.com/listing/705032386/ozella-crochet-shawl-pattern-pdf": 5,
+            "https://www.etsy.com/listing/705032070/misitu-crochet-shawl-pattern-pdf": 5,
+            "https://www.etsy.com/listing/290251589/wisteria-crochet-shawl-pattern-pdf": 4,
+            "https://www.etsy.com/listing/718891743/ilvy-crochet-shawl-pattern-pdf": 4,
+            "https://www.etsy.com/listing/709208429/yinthe-crochet-shawl-pattern-pdf": 4,
+            "https://www.etsy.com/listing/582941115/eretria-crochet-shawl-pattern-pdf": 4,
+            "https://www.etsy.com/listing/705035626/victoria-crochet-shawl-pattern-pdf": 4,
+            "https://www.etsy.com/listing/1089169861/ferny-knitted-shawl-pattern-pdf": 4,
+            "https://www.etsy.com/listing/705032446/yinthe-crochet-shawl-pattern-pdf": 4,
+            "https://www.etsy.com/listing/1166804709/woody-knitted-shawl-pattern-pdf": 4,
+            "https://www.etsy.com/listing/250098824/lacy-crochet-capeletcowl-pattern-pdf": 4,
+            "https://www.etsy.com/listing/749109938/penny-crochet-shawl-pattern-rectangle": 4,
+            "https://www.etsy.com/listing/1166792319/woody-knitted-shawl-pattern-pdf": 4,
+            "https://www.etsy.com/listing/866131021/stitch-marker-progress-keeper-pinecone": 4,
+            "https://www.etsy.com/listing/852217314/stitch-marker-progress-keeper-acorn": 4,
+            "https://www.etsy.com/listing/791727387/stitch-marker-progress-keeper-filagree": 4,
+            "https://www.etsy.com/listing/705035534/leynorah-crochet-shawl-pattern-pdf": 4,
+            "https://www.etsy.com/listing/1059182341/vanilla-crochet-shrug-pattern-pdf": 4
+        }
+    },
+    {
+        "sales": 24578,
+        "date": "31/01/22 11:31:41",
+        "today_sales": 2,
+        "frequency": {
+            "https://www.etsy.com/listing/565855441/pepper-crochet-shawl-pattern-pdf": 1,
+            "https://www.etsy.com/listing/250099030/ice-knit-crochet-shrug-pattern-pdf": 1
+        }
+    },
+    {
+        "sales": 24581,
+        "date": "01/02/22 13:37:41",
+        "today_sales": 3,
+        "frequency": {
+            "https://www.etsy.com/listing/705035626/victoria-crochet-shawl-pattern-pdf": 3
+        }
+    },
+    {
+        "sales": 24583,
+        "date": "02/02/22 12:00:38",
+        "today_sales": 2,
+        "frequency": {
+            "https://www.etsy.com/listing/705035626/victoria-crochet-shawl-pattern-pdf": 1,
+            "https://www.etsy.com/listing/467269980/philou-crochet-shrug-pattern-pdf": 1
+        }
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "sales": 33383
+    },
+    {
+        "sales": 33483,
+        "date": "30/01/22 11:48:42",
+        "today_sales": 100,
+        "frequency": {
+            "https://www.etsy.com/listing/168135959/crochet-slipper-pattern-boots-crochet": 28,
+            "https://www.etsy.com/listing/662147158/crochet-sweater-pattern-for-baby-and": 21,
+            "https://www.etsy.com/listing/815415698/crochet-poncho-pattern-for-women-easy": 18,
+            "https://www.etsy.com/listing/735847995/crochet-pattern-crochet-baby-cardigan": 9,
+            "https://www.etsy.com/listing/808713881/4-hour-crochet-blanket-pattern-crochet": 4,
+            "https://www.etsy.com/listing/106549210/boys-sun-hat-crochet-pattern-pdf-pattern": 4,
+            "https://www.etsy.com/listing/810881188/crochet-slippers-from-a-rectangle": 4,
+            "https://www.etsy.com/listing/160981635/slipper-crochet-pattern-us-sizes-5-to-10": 4,
+            "https://www.etsy.com/listing/112403983/crochet-baby-pattern-crochet-baby-boots": 4,
+            "https://www.etsy.com/listing/869934074/crochet-pocket-shawl-pattern-for-women": 4
+        }
+    },
+    {
+        "sales": 33502,
+        "date": "31/01/22 11:29:09",
+        "today_sales": 19,
+        "frequency": {
+            "https://www.etsy.com/listing/662147158/crochet-sweater-pattern-for-baby-and": 9,
+            "https://www.etsy.com/listing/815415698/crochet-poncho-pattern-for-women-easy": 4,
+            "https://www.etsy.com/listing/824802255/3-hour-crochet-blanket-pattern-crochet": 2,
+            "https://www.etsy.com/listing/104469804/crochet-pattern-hat-newborn-baby-to": 1,
+            "https://www.etsy.com/listing/831531611/striped-crochet-poncho-pattern-caron": 1,
+            "https://www.etsy.com/listing/810881188/crochet-slippers-from-a-rectangle": 1,
+            "https://www.etsy.com/listing/168135959/crochet-slipper-pattern-boots-crochet": 1
+        }
+    },
+    {
+        "sales": 33514,
+        "date": "01/02/22 13:35:10",
+        "today_sales": 12,
+        "frequency": {
+            "https://www.etsy.com/listing/662147158/crochet-sweater-pattern-for-baby-and": 5,
+            "https://www.etsy.com/listing/825990589/crochet-baby-blanket-pattern-crochet": 1,
+            "https://www.etsy.com/listing/824802255/3-hour-crochet-blanket-pattern-crochet": 1,
+            "https://www.etsy.com/listing/831531611/striped-crochet-poncho-pattern-caron": 1,
+            "https://www.etsy.com/listing/815415698/crochet-poncho-pattern-for-women-easy": 1,
+            "https://www.etsy.com/listing/166772813/crochet-ear-flap-hat-pattern-crochet": 1,
+            "https://www.etsy.com/listing/112403983/crochet-baby-pattern-crochet-baby-boots": 1,
+            "https://www.etsy.com/listing/106549210/boys-sun-hat-crochet-pattern-pdf-pattern": 1
+        }
+    },
+    {
+        "sales": 33530,
+        "date": "02/02/22 11:57:58",
+        "today_sales": 16,
+        "frequency": {
+            "https://www.etsy.com/listing/662147158/crochet-sweater-pattern-for-baby-and": 6,
+            "https://www.etsy.com/listing/815415698/crochet-poncho-pattern-for-women-easy": 2,
+            "https://www.etsy.com/listing/869934074/crochet-pocket-shawl-pattern-for-women": 1,
+            "https://www.etsy.com/listing/808713881/4-hour-crochet-blanket-pattern-crochet": 1,
+            "https://www.etsy.com/listing/263170794/crochet-womans-slipper-pattern-boots": 1,
+            "https://www.etsy.com/listing/168135959/crochet-slipper-pattern-boots-crochet": 1,
+            "https://www.etsy.com/listing/106549210/boys-sun-hat-crochet-pattern-pdf-pattern": 1,
+            "https://www.etsy.com/listing/831531611/striped-crochet-poncho-pattern-caron": 1,
+            "https://www.etsy.com/listing/825990589/crochet-baby-blanket-pattern-crochet": 1,
+            "https://www.etsy.com/listing/523922578/crochet-sun-hat-pattern-crochet-hat": 1
+        }
+    }
+]

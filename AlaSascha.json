@@ -1,0 +1,70 @@
+[
+    {
+        "sales": 14240
+    },
+    {
+        "sales": 14340,
+        "date": "30/01/22 12:21:21",
+        "today_sales": 100,
+        "frequency": {
+            "https://www.etsy.com/listing/975005297/fox-onesiegurumi-no-sew-amigurumi": 12,
+            "https://www.etsy.com/listing/211104833/bunny-ragdoll-crochet-amigurumi-pattern": 12,
+            "https://www.etsy.com/listing/1128456322/flapmittens-or-wristwarmers-crochet-pdf": 9,
+            "https://www.etsy.com/listing/925170073/december-mittens-crochet-pdf-pattern": 8,
+            "https://www.etsy.com/listing/698201968/mandala-shawl-crochet-pdf-pattern": 5,
+            "https://www.etsy.com/listing/875401197/sleepy-bear-ragdoll-crochet-amigurumi": 5,
+            "https://www.etsy.com/listing/231394214/puppy-dog-mini-ragdoll-crochet-amigurumi": 5,
+            "https://www.etsy.com/listing/921164429/bear-onesiegurumi-no-sew-amigurumi": 4,
+            "https://www.etsy.com/listing/955612371/bunny-onesiegurumi-no-sew-amigurumi": 4,
+            "https://www.etsy.com/listing/935368846/december-hat-crochet-pdf-pattern-instant": 4,
+            "https://www.etsy.com/listing/742917716/lion-ragdoll-crochet-amigurumi-pattern": 4,
+            "https://www.etsy.com/listing/758280580/cable-car-socks-crochet-pdf-pattern": 4,
+            "https://www.etsy.com/listing/987252847/dog-onesiegurumi-no-sew-amigurumi": 4,
+            "https://www.etsy.com/listing/1022045872/relaxation-shawl-crochet-pdf-pattern": 4,
+            "https://www.etsy.com/listing/1101374049/endless-waves-shawl-crochet-pdf-pattern": 4,
+            "https://www.etsy.com/listing/878128359/crane-socks-crochet-pdf-pattern-instant": 4,
+            "https://www.etsy.com/listing/1112348219/celtic-cable-mittens-crochet-pdf-pattern": 4,
+            "https://www.etsy.com/listing/1092035895/seamless-slalom-blanket-pdf-pattern": 4
+        }
+    },
+    {
+        "sales": 14347,
+        "date": "31/01/22 11:30:31",
+        "today_sales": 7,
+        "frequency": {
+            "https://www.etsy.com/listing/175979808/bubblewrap-cowl-pdf-crochet-pattern": 1,
+            "https://www.etsy.com/listing/599227679/giraffe-ragdoll-crochet-amigurumi": 1,
+            "https://www.etsy.com/listing/778297237/dewdrop-shawl-crochet-pdf-pattern": 1,
+            "https://www.etsy.com/listing/588794846/baby-matryoshka-mini-ragdoll-crochet": 1,
+            "https://www.etsy.com/listing/204010748/robot-ragdoll-crochet-amigurumi-pattern": 1,
+            "https://www.etsy.com/listing/698201968/mandala-shawl-crochet-pdf-pattern": 1,
+            "https://www.etsy.com/listing/878128359/crane-socks-crochet-pdf-pattern-instant": 1
+        }
+    },
+    {
+        "sales": 14353,
+        "date": "01/02/22 13:36:53",
+        "today_sales": 6,
+        "frequency": {
+            "https://www.etsy.com/listing/187408629/dala-horse-crochet-pdf-pattern-instant": 1,
+            "https://www.etsy.com/listing/878128359/crane-socks-crochet-pdf-pattern-instant": 1,
+            "https://www.etsy.com/listing/1166151133/ollies-mittens-crochet-pdf-pattern": 1,
+            "https://www.etsy.com/listing/451550408/owl-ragdoll-crochet-amigurumi-pattern": 1,
+            "https://www.etsy.com/listing/1112348219/celtic-cable-mittens-crochet-pdf-pattern": 1,
+            "https://www.etsy.com/listing/925170073/december-mittens-crochet-pdf-pattern": 1
+        }
+    },
+    {
+        "sales": 14359,
+        "date": "02/02/22 11:59:28",
+        "today_sales": 6,
+        "frequency": {
+            "https://www.etsy.com/listing/876617624/sailors-knot-scarf-crochet-pdf-pattern": 1,
+            "https://www.etsy.com/listing/211104833/bunny-ragdoll-crochet-amigurumi-pattern": 1,
+            "https://www.etsy.com/listing/1087557322/duo-deal-bunny-ragdoll-and-baby-bunny": 1,
+            "https://www.etsy.com/listing/588795536/duo-deal-matryoshka-ragdoll-and-baby": 1,
+            "https://www.etsy.com/listing/878128359/crane-socks-crochet-pdf-pattern-instant": 1,
+            "https://www.etsy.com/listing/975005297/fox-onesiegurumi-no-sew-amigurumi": 1
+        }
+    }
+]
